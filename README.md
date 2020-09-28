@@ -28,4 +28,4 @@ UI Clone (Home Page) - Netflix
 
 ### Website used for this project
 
-[Mercado Livre](https://www.netflix.com/browse)
+[Netflix](https://www.netflix.com/browse)
